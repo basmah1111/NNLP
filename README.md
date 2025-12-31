@@ -2,7 +2,7 @@
 
 اسم المشروع: NLPP
 
-اسم الطالبة: basmah1111
+اسم الطالبة: Basmah
 
 المتطلبات والمكتبات:- Python- Jupyter Notebook
 - مكتبة NLTK- pandas
